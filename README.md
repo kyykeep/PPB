@@ -6,11 +6,11 @@ Pada bagian ini, kita belajar tentang cara mendeklarasikan dan menginisialisasi 
 
 Input
 
-![image](IMAGE/variabel.png)
+![variabel.png](IMAGE/variabel.png)
 
 Output
 
-![image](IMAGE/output_var.png)
+![outputvar.png](IMAGE/outputvar.png)
 
 ## B. Statement Control
 Bagian ini memperkenalkan kontrol alur program menggunakan if-else, operator ternary, dan switch-case. Pada kode ini, program mengecek apakah waktu sekarang (now) berada di antara waktu buka (open) dan tutup (close). Selain itu, penggunaan switch memungkinkan pengecekan beberapa kasus pada variabel nilai.
@@ -52,7 +52,7 @@ Fungsi adalah blok kode yang dapat dipanggil untuk menjalankan tugas tertentu. P
 
 Input
 
-<img src="images/fungsi.png" alt="fungsi" width="400">
+![fungsi.png](IMAGE/fungsi.png)
 
 output
 
