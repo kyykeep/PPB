@@ -6,7 +6,7 @@ Pada bagian ini, kita belajar tentang cara mendeklarasikan dan menginisialisasi 
 
 Input
 
-![variabel.png](IMAGE/variabel.png)
+![Variabel](IMAGE/variabel.png)
 
 Output
 
