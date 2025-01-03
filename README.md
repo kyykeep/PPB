@@ -10,7 +10,7 @@ Input
 
 Output
 
-<img src="images/output_variabel.png" alt="fungsi" width="400">
+![image](IMAGE/output_var.png)
 
 ## B. Statement Control
 Bagian ini memperkenalkan kontrol alur program menggunakan if-else, operator ternary, dan switch-case. Pada kode ini, program mengecek apakah waktu sekarang (now) berada di antara waktu buka (open) dan tutup (close). Selain itu, penggunaan switch memungkinkan pengecekan beberapa kasus pada variabel nilai.
