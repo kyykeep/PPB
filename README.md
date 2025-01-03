@@ -6,7 +6,7 @@ Pada bagian ini, kita belajar tentang cara mendeklarasikan dan menginisialisasi 
 
 Input
 
-<img src="IMAGE/variabel.png" alt="fungsi" width="400">
+![image](IMAGE/variabel.png)
 
 Output
 
