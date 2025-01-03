@@ -6,7 +6,7 @@ Pada bagian ini, kita belajar tentang cara mendeklarasikan dan menginisialisasi 
 
 Input
 
-![Variabel](IMAGE/variabel.png)
+<img src="IMAGE/variabel.png" alt="Variabel" width="400">
 
 Output
 
