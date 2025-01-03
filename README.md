@@ -1,2 +1,0 @@
-# PPB
-Praktikum PPB
